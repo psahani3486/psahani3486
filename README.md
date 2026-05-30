@@ -31,6 +31,7 @@
 * Traffic prediction dashboard
 * Congestion forecasting
 * Real-time insights
+*  🔗 Live Application: https://smart-traffic-prediction-system.vercel.app/
 
 ### 🔹 RAG Intelligence – Hallucination Reduction
 
@@ -39,6 +40,7 @@
 * Reduced hallucinations in LLM responses
 * Parallel retrieval architecture
 * Faster response generation
+*  🔗 Live Application: https://reduction-in-hallucinationof-llm.vercel.app/
 
 ## 🛠 Tech Stack
 
