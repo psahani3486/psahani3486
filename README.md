@@ -73,7 +73,7 @@ B.Tech Mathematics &amp; Computing student at NSUT passionate about AI, Machine 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anshkrsingh004&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=psahani3486&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
@@ -83,7 +83,7 @@ B.Tech Mathematics &amp; Computing student at NSUT passionate about AI, Machine 
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Anshkrsingh004">Anshkrsingh004</a></i></p># Hi 👋, I'm Pankaj
+<p align="center"><i>⭐️ From <a href="https://github.com/psahani3486">psahani3486</a></i></p># Hi 👋, I'm Pankaj
 
 🚀 Full Stack & AI/ML Developer
 
