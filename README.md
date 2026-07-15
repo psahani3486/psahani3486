@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/psahani3486">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1050&text=Welcome%20to%20my%20GitHub!%20I'm%20Pankaj" alt="Welcome to my GitHub! I&#39;m Pankaj" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1050&text=Welcome%20to%20my%20GitHub!%20I'm%20Pankaj " alt="Welcome to my GitHub! I&#39;m Pankaj" />
   </a>
 </p>
 
@@ -12,12 +12,11 @@
 
 B.Tech Mathematics &amp; Computing student at NSUT passionate about AI, Machine Learning, Computer Vision, and Full-Stack Development. Currently building real-world AI applications while continuously learning modern software engineering practices.
 
-🔭 &nbsp;I'm currently working on **Computer Vision &amp; LLM-based AI Applications**  
+🔭 &nbsp;I'm currently working on **Machine Learning &amp; LLM-based AI Applications**  
 🌱 &nbsp;I'm currently learning **Large Language Models (LLMs), RAG, LangChain, and System Design**  
 👯 &nbsp;I'm looking to collaborate on **Open-source AI/ML, Computer Vision, and Full-Stack projects**  
 💬 &nbsp;Ask me about **C++, Python, Machine Learning, Computer Vision, React, FastAPI**  
 😄 &nbsp;Pronouns: **He/Him**  
-⚡ &nbsp;Fun fact: **I enjoy turning research papers into working AI projects.**
 
 ### 🛠️ Tech Stack
 
