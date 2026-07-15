@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/psahani3486">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1050&text=Welcome%20to%20my%20GitHub!%20I'm%20Pankaj " alt="Welcome to my GitHub! I&#39;m Pankaj" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1050&text=Welcome%20to%20my%20GitHub! " alt="Welcome to my GitHub! I&#39;m Pankaj" />
   </a>
 </p>
 
@@ -55,46 +55,6 @@ B.Tech Mathematics &amp; Computing student at NSUT passionate about AI, Machine 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pankaj-sahani/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:psahani729@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=psahani3486&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=psahani3486&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=psahani3486&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/psahani3486">psahani3486</a></i></p># Hi 👋, I'm Pankaj
-
-🚀 Full Stack & AI/ML Developer
-
-🎓 B.Tech CSE Student at NSUT (2023–2027)
-
-## 💫 About Me
-
-* 💻 Passionate about Backend, AI & Full Stack Development
-* 🧠 Solved 400+ DSA problems
-* 🌱 Currently learning NestJS, System Design & Advanced Backend
-* ⚡ Building scalable AI and web applications
-
 ## 🚀 Featured Projects
 
 ### 🔹 FeedLink – Food Redistribution Platform
@@ -125,15 +85,30 @@ B.Tech Mathematics &amp; Computing student at NSUT passionate about AI, Machine 
 * Parallel retrieval architecture
 * Faster response generation
 *  🔗 Live Application: https://reduction-in-hallucinationof-llm.vercel.app/
+### 🔗 Connect With Me
 
-## 🛠 Tech Stack
+<p align="left">
+  <a href="https://www.linkedin.com/in/pankaj-sahani/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:psahani729@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-**Frontend:** React.js, Next.js
-**Backend:** Node.js, NestJS, FastAPI
-**Database:** PostgreSQL, MongoDB, MySQL
-**AI/ML:** TensorFlow, Scikit-Learn, RAG, LLMs
+### 📊 GitHub Stats
 
-## 📫 Connect With Me
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=psahani3486&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=psahani3486&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-📧 Email: [psahani729@gmail.com](mailto:psahani729@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/pankaj-sahani/
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=psahani3486&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" /></p>
+
+---
+
