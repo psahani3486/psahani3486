@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://github.com/psahani3486">
     <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Welcome%20to%20my%2C%20Github!%20I'm%20Pankaj" alt="Typing headlines" />
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1050&text=Welcome%20to%20my%20GitHub!%20I'm%20Pankaj" alt="Welcome to my GitHub! I&#39;m Pankaj" />
   </a>
 </p>
 
