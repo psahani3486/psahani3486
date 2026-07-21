@@ -243,13 +243,9 @@ Deep learning computer vision model designed for automated anomaly detection in 
 </a>
 
 <p align="center">
-  <a href="https://github.com/psahani3486">
-    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Welcome%20to%20my%2C%20Github!%20I'm%20Pankaj" alt="Typing headlines" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Passionate%20about%20AI%2C%20Machine%20Learning%20%26%20Software%20Engineering;Learning%20every%20day%20%E2%80%A2%20Building%20real-world%20AI%20projects" alt="Typing headlines" />
+  <a href="https://www.linkedin.com/in/pankaj-sahani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:psahani729@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/psahani3486"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ### 🚀 About Me
@@ -329,12 +325,7 @@ B.Tech Mathematics &amp; Computing student at NSUT passionate about AI, Machine 
 * Parallel retrieval architecture
 * Faster response generation
 *  🔗 Live Application: https://reduction-in-hallucinationof-llm.vercel.app/
-### 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pankaj-sahani/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:psahani729@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 
 ### 📈 Contribution Graph
@@ -345,19 +336,6 @@ B.Tech Mathematics &amp; Computing student at NSUT passionate about AI, Machine 
 
 <div align="center">
 
-<!-- Hero Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Pankaj%20Sahani&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff&descFontColor=a371f7" width="100%" />
-
-<!-- Typing Animation -->
-<a href="https://github.com/psahani3486">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E1FF&center=true&vCenter=true&width=800&height=50&lines=Building+scalable+AI+products;Currently+learning+LLMs,+Agents,+and+MLOps;Open+Source+Enthusiast;Machine+Learning+&++System+Design" alt="Typing headlines" />
-</a>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pankaj-sahani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:psahani729@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/psahani3486"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
 ---
 
