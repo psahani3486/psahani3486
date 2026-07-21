@@ -61,25 +61,12 @@ B.Tech Mathematics &amp; Computing student at NSUT passionate about AI, Machine 
 * NGO–Donor food coordination
 * 🔗 Live Application:   https://www.feedlinkx.tech/
 
-### 🔹 RAG Intelligence – Hallucination Reduction
-
-**Tech:** Python, FastAPI, LLMs, RAG
-
-* Reduced hallucinations in LLM responses
-* Parallel retrieval architecture
-* Faster response generation
-*  🔗 Live Application: https://reduction-in-hallucinationof-llm.vercel.app/
-
-
 
 ### 📈 Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=psahani3486&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
-
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer" width="100%" />
 <p align="center">
