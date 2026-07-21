@@ -1,3 +1,155 @@
+<div align="center">
+
+<!-- 🌌 Animated Galaxy & 3D Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=00FFFF,00FF9D,A371F7,00FFFF&height=250&section=header&text=Pankaj%20Sahani&fontSize=70&fontAlignY=35&desc=AI%20Architect%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff&descFontColor=00FFFF" width="100%" />
+
+<!-- ⚡ Typing Animation with Cyberpunk Glow -->
+<a href="https://github.com/psahani3486">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=50&lines=Building+Next-Gen+AI+Products;Architecting+Scalable+Systems;Mastering+LLMs,+RAG,+&+MLOps;Transforming+Ideas+Into+Reality" alt="Typing headlines" />
+</a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pankaj-sahani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:psahani729@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/psahani3486"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<!-- 🌊 Premium Section Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=15&section=footer" width="100%"/>
+
+## 🤖 Holographic About Me
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3 align="center">👨‍💻 Cybernetic Overview</h3>
+      <p>I'm a B.Tech Mathematics & Computing student at NSUT operating at the intersection of <b>Artificial Intelligence</b> and <b>Full-Stack Architecture</b>. Driven by the pursuit of building high-performance, real-world applications using modern engineering paradigms.</p>
+      <br/>
+      <h3 align="center">🚀 Primary Directives</h3>
+      <ul>
+        <li>🔭 Architecting <b>Machine Learning & LLM-based AI Systems</b></li>
+        <li>🌱 Deep-diving into <b>RAG, Agents, and Scalable Microservices</b></li>
+        <li>💬 Let's talk about <b>C++, Python, React, and FastAPI</b></li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <!-- AI Themed SVG Illustration -->
+      <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=400&h=300&fit=crop" alt="AI Robot" width="80%" style="border-radius:15px; border: 2px solid #A371F7;" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=15&section=footer" width="100%"/>
+
+## 🛸 Floating Tech Arsenal
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,react,nextjs,tailwind,nodejs,express,fastapi,postgres,mongodb,mysql,sqlite,docker,git,github,vscode,vercel&theme=dark&perline=10" />
+  </a>
+</p>
+
+<!-- Terminal-Style Interactive Skill Progress Bars -->
+### 📈 Terminal Mastery
+<p align="center">
+  <code>Python    [██████████] 95%</code><br/>
+  <code>C++       [█████████░] 90%</code><br/>
+  <code>React/Next[████████░░] 85%</code><br/>
+  <code>AI/ML     [████████░░] 80%</code><br/>
+  <code>Backend   [████████░░] 85%</code>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A371F7&height=15&section=footer" width="100%"/>
+
+## 🌌 Repository Showcase (Holographic Cards)
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🔹 FeedLink</h3>
+      <p align="center"><i>Food Redistribution Platform</i></p>
+      <p align="center">
+        <a href="https://www.feedlinkx.tech/">
+          <img src="https://images.unsplash.com/photo-1593113565694-c702334812f8?q=80&w=400&h=200&fit=crop" width="100%" style="border-radius:10px; border: 2px solid #00FFFF;" alt="FeedLink"/>
+        </a>
+      </p>
+      <p align="center">
+        <code>Next.js</code> <code>PostgreSQL</code> <code>Prisma</code>
+      </p>
+      <p align="center">
+        <a href="https://www.feedlinkx.tech/"><img src="https://img.shields.io/badge/Live_Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🔹 Delhi TrafficAI</h3>
+      <p align="center"><i>Smart Traffic Prediction</i></p>
+      <p align="center">
+        <a href="https://smart-traffic-prediction-system.vercel.app/">
+          <img src="https://images.unsplash.com/photo-1449824913935-59a10b8d2000?q=80&w=400&h=200&fit=crop" width="100%" style="border-radius:10px; border: 2px solid #00FF9D;" alt="Delhi TrafficAI"/>
+        </a>
+      </p>
+      <p align="center">
+        <code>React.js</code> <code>FastAPI</code> <code>TensorFlow</code>
+      </p>
+       <p align="center">
+        <a href="https://smart-traffic-prediction-system.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00FF9D?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🔹 RAG Intelligence</h3>
+      <p align="center"><i>Hallucination Reduction</i></p>
+      <p align="center">
+        <a href="https://reduction-in-hallucinationof-llm.vercel.app/">
+          <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=400&h=200&fit=crop" width="100%" style="border-radius:10px; border: 2px solid #A371F7;" alt="RAG Intelligence"/>
+        </a>
+      </p>
+      <p align="center">
+        <code>Python</code> <code>FastAPI</code> <code>LLMs</code>
+      </p>
+       <p align="center">
+        <a href="https://reduction-in-hallucinationof-llm.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-A371F7?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=15&section=footer" width="100%"/>
+
+## 📈 Cyberpunk Stats & Matrix Metrics
+
+<!-- Glassmorphism Stats Cards with Neon Gradient Borders -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=psahani3486&show_icons=true&title_color=00FFFF&icon_color=00FF9D&text_color=ffffff&bg_color=00000000&hide_border=false&border_color=A371F7&border_radius=15" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psahani3486&stroke=0000&background=00000000&ring=00FFFF&fire=00FF9D&currStreakNum=ffffff&currStreakLabel=00FFFF&sideNums=ffffff&sideLabels=ffffff&dates=A371F7&hide_border=false&border_radius=15&border=00FF9D" width="48%" />
+</p>
+
+<!-- Trophy Showcase -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=psahani3486&theme=radical&no-bg=true&margin-w=15&border=1" />
+</p>
+
+### 🐍 Animated GitHub Contribution Snake (Fallback to Activity Graph)
+<p align="center">
+  <picture>
+    <!-- Dark Mode Snake -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/psahani3486/psahani3486/output/github-contribution-grid-snake-dark.svg">
+    <!-- Light Mode Snake -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/psahani3486/psahani3486/output/github-contribution-grid-snake.svg">
+    <!-- Fallback Image if snake isn't generated -->
+    <img alt="github contribution grid snake animation" src="https://github-readme-activity-graph.vercel.app/graph?username=psahani3486&bg_color=00000000&color=00FFFF&line=00FF9D&point=FFFFFF&area=true&hide_border=false&border_color=A371F7&border_radius=15"/>
+  </picture>
+  <br/>
+  <i>Note: To enable the actual snake animation, you must setup the <a href="https://github.com/Platane/snk">snk GitHub Action</a>. The Activity Graph is shown as a fallback.</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=00FFFF,00FF9D,A371F7,00FFFF&height=100&section=footer" width="100%" />
+<p align="center">
+  <i>"Wake the code up, Samurai. We have a system to build."</i><br/>
+  <b style="color: #00FFFF;">System Secure. Connection Terminated.</b>
+</p>
+
+</div>
+
 <p align="center">
   <a href="https://github.com/psahani3486">
     <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Welcome%20to%20my%2C%20Github!%20I'm%20Pankaj" alt="Typing headlines" />
