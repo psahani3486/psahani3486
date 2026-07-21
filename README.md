@@ -1,4 +1,86 @@
 <div align="center">
+  <img src="assets/hero.svg" alt="Pankaj Sahani - AI Architect & Full Stack Engineer" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p style="color: #888888; font-size: 15px;">
+    Architecting Intelligence. Building Scalable Systems. <br/>
+    Operating at the intersection of AI modeling and robust full-stack engineering.
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pankaj-sahani/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=000000" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:psahani729@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=000000" alt="Email"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/psahani3486"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&color=000000&labelColor=000000" alt="GitHub"/></a>
+</div>
+
+<br/><br/>
+
+### Ⅰ. Engineering Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,ts,react,nextjs,tailwind,nodejs,fastapi,postgres,mongodb,docker,git,aws,vercel&theme=dark" alt="Engineering Stack" />
+  </a>
+</p>
+
+<br/>
+
+### Ⅱ. Featured Architecture
+
+---
+
+**[AI Business Intelligence Platform](https://github.com/psahani3486/Ai-Business-Intelligence-Platform)**  
+Enterprise-grade intelligence platform leveraging Large Language Models for automated data analysis and dynamic insight generation.  
+`TypeScript`  ·  `LLMs`  ·  `Next.js`
+
+---
+
+**[FeedLink](https://github.com/psahani3486/feedlink)**  
+Scalable food redistribution network architecture utilizing precise geospatial matching algorithms and secure JWT authentication.  
+`Next.js`  ·  `PostgreSQL`  ·  `Prisma`
+
+---
+
+**[Smart Traffic Prediction System](https://github.com/psahani3486/Smart-Traffic-Prediction-System)**  
+Real-time machine learning pipeline for urban congestion forecasting and dynamic route optimization.  
+`React.js`  ·  `FastAPI`  ·  `TensorFlow`
+
+---
+
+**[Chest X-Ray Disease Classifier](https://github.com/psahani3486/Chest-X-ray-Disease-Classifier)**  
+Deep learning computer vision model designed for automated anomaly detection in medical imaging.  
+`Python`  ·  `PyTorch`  ·  `ResNet`
+
+---
+
+<br/>
+
+### Ⅲ. Analytics & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=psahani3486&show_icons=true&bg_color=000000&border_color=222222&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&border_radius=5" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psahani3486&background=000000&border=222222&title=ffffff&text=888888&icon=ffffff&ring=ffffff&fire=ffffff&hide_border=false&border_radius=5" width="48%" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=psahani3486&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false&border_color=222222&border_radius=5" />
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="assets/footer.svg" alt="Footer Line" width="100%" />
+</div>
+
+<div align="center">
 
 <!-- 🌌 Animated Galaxy & 3D Hero Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=00FFFF,00FF9D,A371F7,00FFFF&height=250&section=header&text=Pankaj%20Sahani&fontSize=70&fontAlignY=35&desc=AI%20Architect%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff&descFontColor=00FFFF" width="100%" />
