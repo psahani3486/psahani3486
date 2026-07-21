@@ -232,6 +232,16 @@ Deep learning computer vision model designed for automated anomaly detection in 
 
 </div>
 
+<div align="center">
+
+<!-- 🌌 Animated Galaxy & 3D Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=00FFFF,00FF9D,A371F7,00FFFF&height=250&section=header&text=Pankaj%20Sahani&fontSize=70&fontAlignY=35&desc=AI%20Architect%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff&descFontColor=00FFFF" width="100%" />
+
+<!-- ⚡ Typing Animation with Cyberpunk Glow -->
+<a href="https://github.com/psahani3486">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=50&lines=Building+Next-Gen+AI+Products;Architecting+Scalable+Systems;Mastering+LLMs,+RAG,+&+MLOps;Transforming+Ideas+Into+Reality" alt="Typing headlines" />
+</a>
+
 <p align="center">
   <a href="https://github.com/psahani3486">
     <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Welcome%20to%20my%2C%20Github!%20I'm%20Pankaj" alt="Typing headlines" />
