@@ -36,9 +36,9 @@ B.Tech Mathematics &amp; Computing student at NSUT passionate about AI, Machine 
 
 ### 🔹 TitanFrame
 
-**Architected TitanFrame, an enterprise-grade GPU-accelerated DataFrame engine capable of processing datasets 100× larger than system RAM using Apache Arrow, chunked streaming execution, and automatic NVMe disk spilling.
-**Designed a lazy query execution engine with AST-based logical planning, predicate pushdown, projection pruning, and streaming physical operators to optimize I/O, memory usage, and analytical query performance.
-**Built a real-time telemetry platform featuring CUDA-accelerated execution with CPU fallback, multithreaded REST APIs, and a React dashboard for live DAG visualization, memory monitoring, and SQL query execution.
+*  Architected TitanFrame, an enterprise-grade GPU-accelerated DataFrame engine capable of processing datasets 100× larger than system RAM using Apache Arrow, chunked streaming execution, and automatic NVMe disk     spilling.
+*  Designed a lazy query execution engine with AST-based logical planning, predicate pushdown, projection pruning, and streaming physical operators to optimize I/O, memory usage, and analytical query performance.
+* Built a real-time telemetry platform featuring CUDA-accelerated execution with CPU fallback, multithreaded REST APIs, and a React dashboard for live DAG visualization, memory monitoring, and SQL query execution.
 *  🔗 Live Application: https://titan-frame.vercel.app/
 
 
